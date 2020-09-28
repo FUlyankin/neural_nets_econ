@@ -2,15 +2,15 @@
 
 __Материалы с семинара:__
 
-* Тетрадка с экспериментами на градиентный спуск, данные
-* Задачки на алгоритм обратного распространения ошибки
-* Прошлогоднее решение этих задачек
+* [Тетрадка с экспериментами](https://github.com/FUlyankin/neural_nets_econ/blob/master/sem04_backprop/Keras_SGD_experiments_sem.ipynb) на градиентный спуск, [данные](https://github.com/FUlyankin/neural_nets_econ/blob/master/sem04_backprop/X_cat.csv), ещё [данные](https://github.com/FUlyankin/neural_nets_econ/blob/master/sem04_backprop/y_cat.csv)
+* [Задачки на алгоритм обратного распространения ошибки](https://github.com/FUlyankin/neural_nets_econ/blob/master/sem04_backprop/tasks_04_backprop.pdf)
+* [Прошлогоднее решение](https://github.com/FUlyankin/neural_nets_econ/blob/master/sem04_backprop/backprop.pdf) этих задачек
 * Код, который успели написать за семинар для домашки
 
 __Что можно поделать:__
 
 * Дорешать ручные задачи из листочков. Всё, что не сможете решить, в следующий раз разберём.
-* Собрать свою собственную реализацию нейронной сетки (начали делать её в конце семинара)
+* Собрать свою [собственную реализацию нейронной сетки](https://github.com/FUlyankin/neural_nets_econ/tree/master/sem04_backprop/HW3_own_neural_network) (начали делать её в конце семинара)
 
 __Ещё материалы:__
 
