@@ -16,5 +16,6 @@ __Ещё материалы:__
 Не самые хорошие гайды по тензорборду: 
 
 - https://habr.com/ru/post/349338/
-- https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/4_Utils/tensorboard_basic.py
+- https://keras.io/api/callbacks/tensorboard/
 - https://www.tensorflow.org/tensorboard/migrate
+- http://edwardlib.org/tutorials/tensorboard
