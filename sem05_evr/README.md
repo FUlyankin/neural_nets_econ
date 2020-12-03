@@ -12,3 +12,10 @@ __Что можно поделать:__
 __Ещё материалы:__
 
 * [Годный обзор функций активации,](https://arxiv.org/pdf/1804.02763.pdf) читается на одном дыхании
+
+Не самые хорошие гайды по тензорборду: 
+
+- https://habr.com/ru/post/349338/
+- https://keras.io/api/callbacks/tensorboard/
+- https://www.tensorflow.org/tensorboard/migrate
+- http://edwardlib.org/tutorials/tensorboard
